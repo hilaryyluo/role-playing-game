@@ -2,4 +2,6 @@
 This is a role playing game written in Python
 
 # Unit Tests
-Unit tests were written for pytest and can be run with the commands pip install pytest (if you do not have py test installed) and python -m pytest tests.py
+Unit tests were written for pytest and can be run with the commands
+```pip install pytest``` (if you do not have py test installed)
+and ```python -m pytest tests.py```
